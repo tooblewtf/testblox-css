@@ -1037,7 +1037,7 @@ body > .container {
   height: 840px;
   background-size: 1000% 100%;
   overflow: hidden;
-  background: url("ParallaxCity2.png");
+  background: url("https://raw.githubusercontent.com/tooblewtf/testblox-css/refs/heads/main/css/ParallaxCity2.png");
   background-repeat: repeat-x;
   animation: parallaxmove 160s linear infinite reverse;
   bottom: 10em;
@@ -1051,7 +1051,7 @@ body > .container {
   height: 840px;
   overflow: hidden;
   background-size: 1000% 100%;
-  background: url("/ParallaxCity1.png");
+  background: url("https://raw.githubusercontent.com/tooblewtf/testblox-css/refs/heads/main/css/parallaxcity1.png");
   background-repeat: repeat-x;
   animation: parallaxmove 160s linear infinite;
   bottom: 0;
